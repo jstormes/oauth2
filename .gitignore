@@ -1,7 +1,20 @@
-.idea
+# PHP
 composer.phar
-composer.lock
+#composer.lock
 clover.xml
 coveralls-upload.json
 phpunit.xml
 vendor/
+data/
+
+#Doctrine 2
+data/DoctrineORMModule/Proxy/
+data/DoctrineORMModule/cache/
+
+# JOE
+*~
+
+# JetBrains IDE
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml

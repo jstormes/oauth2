@@ -1,6 +1,5 @@
 # PHP
 composer.phar
-#composer.lock
 clover.xml
 coveralls-upload.json
 phpunit.xml
